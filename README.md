@@ -19,7 +19,7 @@ To run this project locally, make sure you have the following dependencies insta
 
 - **Live Server** (if running locally without a backend)
 - **Tailwind CSS** (CDN or npm package)
-- - **Daisy Ui** (CDN or npm package)
+- **Daisy Ui** (CDN or npm package)
 
 ## **Live Deployment**
 Check out the live version of the website: [**PH-Tube**]( https://farhatuloffical78.github.io/PH-Tube-Lite-Website/)
