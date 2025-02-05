@@ -36,5 +36,7 @@ Follow these steps to run **PH-Tube** on your local machine:
 
 1. **Clone the repository**:
    git clone [https://github.com/yourusername/ph-tube.git](https://github.com/farhatuloffical78/PH-Tube-Lite-Website )
+2. Navigate to the project directory: cd Ph-tube-project
+3. Start the project: npm install -g live-server or click to live-server
    
 
