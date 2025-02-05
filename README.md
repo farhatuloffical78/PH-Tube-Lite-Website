@@ -21,12 +21,6 @@ To run this project locally, make sure you have the following dependencies insta
 - **Tailwind CSS** (CDN or npm package)
 - - **Daisy Ui** (CDN or npm package)
 
-## **How API Rendering Works**
-- **Fetching Data**: The app makes an API request to fetch video content.
-- **Displaying Videos**: The response data is processed and rendered dynamically into HTML.
-- **Handling Categories**: When users click on a category button, the app filters videos accordingly.
-- **Search Functionality**: User input is matched against the video titles and descriptions to display relevant results.
-
 ## **Live Deployment**
 Check out the live version of the website: [**PH-Tube**]( https://farhatuloffical78.github.io/PH-Tube-Lite-Website/)
 
