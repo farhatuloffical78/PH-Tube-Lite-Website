@@ -19,8 +19,8 @@
 To run this project locally, make sure you have the following dependencies installed:
 
 - **Live Server** (if running locally without a backend)
-- **Fetch API** (built-in)
 - **Tailwind CSS** (CDN or npm package)
+- - **Daisy Ui** (CDN or npm package)
 
 ## **How API Rendering Works**
 - **Fetching Data**: The app makes an API request to fetch video content.
@@ -35,6 +35,6 @@ Check out the live version of the website: [**PH-Tube**]( https://farhatuloffica
 Follow these steps to run **PH-Tube** on your local machine:
 
 1. **Clone the repository**:
-   git clone https://github.com/yourusername/ph-tube.git
+   git clone [https://github.com/yourusername/ph-tube.git](https://github.com/farhatuloffical78/PH-Tube-Lite-Website )
    
 
