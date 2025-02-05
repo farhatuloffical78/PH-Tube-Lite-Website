@@ -9,7 +9,6 @@
 - **Details Button**: Each video has a **Details button** that displays all the information about the video.
 - **API Data Rendering**: Videos are dynamically fetched from an API and displayed on the page.
 - **Loading State**: A loading indicator is shown while fetching data from the API.
-- **Error Handling**: Displays an error message if the API request fails.
 
 ## **Technology Stack**
 - **Frontend**: **JavaScript (ES6+)**, **Tailwind CSS**, **HTML**
